@@ -8,5 +8,8 @@ return {
     opts = {
       blame_options = { '-w' },
     },
+    keys = {
+      { '<leader>tb', '<cmd>BlameToggle<cr>', desc = 'BlameToggle' },
+    },
   },
 }
