@@ -9,7 +9,7 @@ return {
       blame_options = { '-w' },
     },
     keys = {
-      { '<leader>tb', '<cmd>BlameToggle<cr>', desc = 'BlameToggle' },
+      { '<leader>tb', '<cmd>BlameToggle<cr>', desc = '[T]oggle [B]lame' },
     },
   },
 }
