@@ -900,7 +900,7 @@ require('lazy').setup({
     config = function()
       -- Load the colorscheme here.
       -- Like many other themes, this one has different styles, and you could load
-      vim.cmd.colorscheme 'kanagawa-dragon'
+      vim.cmd.colorscheme 'kanagawa-wave'
     end,
   },
 
